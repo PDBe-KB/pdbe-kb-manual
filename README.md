@@ -1,5 +1,7 @@
 # PDBe-KB User Guide
 
-## Introduction
+This User Guide provides information on the various types of data that is available from the [Protein Data Bank in Europe - Knowledge Base](https://pdbe-kb).
 
-This User Guide provides information on the various types of data that is available from the Protein Data Bank in Europe - Knowledge Base (PDBe-KB).
+### Table of Contents
+
+[Sequence conservation scores](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Sequence-conservation-scores)
