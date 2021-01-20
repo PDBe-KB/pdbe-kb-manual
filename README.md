@@ -5,3 +5,5 @@ This User Guide provides information on the various types of data that is availa
 ### Table of Contents
 
 [Sequence conservation scores](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Sequence-conservation-scores)
+
+[Superposition](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Superposition)
