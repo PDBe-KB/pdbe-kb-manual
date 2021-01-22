@@ -4,6 +4,12 @@ This User Guide provides information on the various types of data that is availa
 
 ### Table of Contents
 
+#### Data and Service Guides
+
 [Sequence conservation scores](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Sequence-conservation-scores)
 
 [Superposition](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Superposition)
+
+#### Annotations provided by PDBe-KB Consortium Members
+
+[Mechanism And Catalytic Site Atlas](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Mechanism-And-Catalytic-Site-Atlas)
