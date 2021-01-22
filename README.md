@@ -15,3 +15,5 @@ This User Guide provides information on the various types of data that is availa
 [Mechanism And Catalytic Site Atlas](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Mechanism-And-Catalytic-Site-Atlas)
 
 [AKID](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/AKID)
+
+[Missense3D](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Missense3D)
