@@ -19,3 +19,7 @@ This User Guide provides information on the various types of data that is availa
 [Missense3D](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Missense3D)
 
 [P2rank](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/P2rank)
+
+[FoldX](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FoldX)
+
+[DynaMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/DynaMine)
