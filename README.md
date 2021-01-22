@@ -2,13 +2,20 @@
 
 This User Guide provides information on the various types of data that is available from the [Protein Data Bank in Europe - Knowledge Base](https://pdbe-kb).
 
-### Table of Contents
+PDBe-KB (Protein Data Bank in Europe - Knowledge Base) is a community-driven resource managed by the [PDBe team](https://pdbe.org/), collating functional annotations and predictions for structure data in the PDB archive. PDBe-KB is a collaborative effort between PDBe and a diverse group of [bioinformatics resources and research teams](https://www.ebi.ac.uk/pdbe/pdbe-kb/partners).
+
+PDBe-KB contains data contributed by projects such as [SIFTS](http://www.ebi.ac.uk/pdbe/docs/sifts/index.html) and [FunPDBe](http://www.ebi.ac.uk/pdbe/pdbe-kb/funpdbe) and aims to place structures from the PDB in their biological context.
+
+Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resource for structural and functional annotations. Nucleic Acids Research, Database Issue (2020)](https://academic.oup.com/nar/article/48/D1/D344/5580911)
+
+***
+
+### Wiki pages
 
 #### Data and Service Guides
 
-[Sequence conservation scores](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Sequence-conservation-scores)
-
-[Superposition](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Superposition)
+* [Sequence conservation scores](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Sequence-conservation-scores)
+* [Superposition](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Superposition)
 
 #### Annotations provided by PDBe-KB Consortium Members
 
