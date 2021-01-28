@@ -40,3 +40,4 @@ Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resourc
 * [MolMeDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/MolMeDB)
 * [14-3-3-pred](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/14-3-3-pred)
 * [WEBnm@](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/WEBnm@)
+* [KnotProt](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/KnotProt)
