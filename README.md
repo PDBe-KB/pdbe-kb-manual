@@ -19,25 +19,36 @@ Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resourc
 
 #### Annotations provided by PDBe-KB Consortium Members
 
-* [Mechanism And Catalytic Site Atlas](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Mechanism-And-Catalytic-Site-Atlas)
-* [AKID](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/AKID)
-* [Missense3D](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Missense3D)
-* [P2rank](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/P2rank)
-* [FoldX](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FoldX)
-* [DynaMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/DynaMine)
-* [EFoldMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/EFoldMine)
-* [MetalPDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/MetalPDB)
-* [ChannelsDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ChannelsDB)
-* [canSAR](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/canSAR)
-* [3DComplex](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/3DComplex)
-* [KinCore](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/KinCore)
-* [DEPTH](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/DEPTH)
-* [3DLigandSite](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/3DLigandSite)
-* [Covalentizer](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Covalentizer)
-* [CATH-FunSites](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/CATH-FunSites)
-* [FireProt DB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FireProt-DB)
-* [POPScomp](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/POPScomp)
-* [MolMeDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/MolMeDB)
+##### 1-9
 * [14-3-3-pred](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/14-3-3-pred)
-* [WEBnm@](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/WEBnm@)
+* [3DComplex](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/3DComplex)
+* [3DLigandSite](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/3DLigandSite)
+##### A
+* [AKID](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/AKID)
+##### C
+* [canSAR](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/canSAR)
+* [CATH-FunSites](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/CATH-FunSites)
+* [ChannelsDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ChannelsDB)
+* [Covalentizer](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Covalentizer)
+##### D
+* [DEPTH](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/DEPTH)
+* [DynaMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/DynaMine)
+##### E
+* [EFoldMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/EFoldMine)
+##### F
+* [FireProt DB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FireProt-DB)
+* [FoldX](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FoldX)
+##### K
+* [KinCore](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/KinCore)
 * [KnotProt](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/KnotProt)
+##### M
+* [Mechanism And Catalytic Site Atlas](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Mechanism-And-Catalytic-Site-Atlas)
+* [MetalPDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/MetalPDB)
+* [Missense3D](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Missense3D)
+* [MolMeDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/MolMeDB)
+##### P
+* [P2rank](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/P2rank)
+* [POPScomp](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/POPScomp)
+* [ProKinO](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ProKinO)
+##### W
+* [WEBnm@](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/WEBnm@)
