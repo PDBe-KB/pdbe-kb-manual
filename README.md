@@ -26,6 +26,7 @@ Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resourc
 ##### A
 * [AKID](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/AKID)
 ##### C
+* [CaMKiNet](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/CaMKiNet)
 * [canSAR](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/canSAR)
 * [CATH-FunSites](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/CATH-FunSites)
 * [ChannelsDB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ChannelsDB)
@@ -35,6 +36,7 @@ Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resourc
 * [DynaMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/DynaMine)
 ##### E
 * [EFoldMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/EFoldMine)
+* [ELM](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ELM)
 ##### F
 * [FireProt DB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FireProt-DB)
 * [FoldX](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FoldX)
