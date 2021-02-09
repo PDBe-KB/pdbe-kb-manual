@@ -52,5 +52,7 @@ Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resourc
 * [P2rank](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/P2rank)
 * [POPScomp](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/POPScomp)
 * [ProKinO](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ProKinO)
+##### S
+* [Scop3P](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Scop3P)
 ##### W
 * [WEBnm@](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/WEBnm@)
