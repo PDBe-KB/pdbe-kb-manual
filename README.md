@@ -54,5 +54,6 @@ Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resourc
 * [ProKinO](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ProKinO)
 ##### S
 * [Scop3P](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Scop3P)
+* [SKEMPI2](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/SKEMPI2)
 ##### W
 * [WEBnm@](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/WEBnm@)
