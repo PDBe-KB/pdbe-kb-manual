@@ -37,6 +37,7 @@ Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resourc
 ##### E
 * [EFoldMine](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/EFoldMine)
 * [ELM](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/ELM)
+* [EMV](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/EMV)
 ##### F
 * [FireProt DB](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FireProt-DB)
 * [FoldX](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/FoldX)
