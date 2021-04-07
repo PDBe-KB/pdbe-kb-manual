@@ -18,7 +18,7 @@ These are documentations for data and services provided by PDBe-KB
 * [Sequence conservation scores](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Sequence-conservation-scores)
 * [Superposition](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Superposition)
 
-#### Web Components
+### Web Components Library
 These are repositories of reusable web components developed for PDBe-KB
 
 ##### Summary Icons Component
