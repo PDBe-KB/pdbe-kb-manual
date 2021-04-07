@@ -35,6 +35,17 @@ These are repositories of reusable web components developed for PDBe-KB
 
 #### Summary Text Component
 
+This repository is for the codebase of a lightweight Angular v7 web component that displays textual summary information.
+
+This web component is used on the PDBe-KB Aggregated Views of Proteins to display summary information on a particular UniProt accession, including:
+
+1. protein name
+2. gene name
+3. species
+4. biological function
+
+It also supports flags (for example enzyme classification ids) and has an embedded "tutorial" web component.
+
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-summary-text/main/pdbe-kb-summary-text.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
@@ -63,6 +74,10 @@ These are repositories of reusable web components developed for PDBe-KB
 ***
 
 #### Image Gallery Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that displays images for molecular entities in a gallery.
+
+This web component is used on PDBe-KB Aggregated Views of Proteins and Aggregated Views of Ligands to display macromolecular interaction partners and ligands.
 
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-image-gallery/main/pdbe-kb-gallery.png">
 
@@ -104,6 +119,10 @@ These are repositories of reusable web components developed for PDBe-KB
 
 #### Tutorials Component
 
+This repository is for the codebase of a lightweight Angular v7 web component that displays embedded YouTube videos.
+
+This component is used on the PDBe-KB Aggregated Views of Proteins to display tutorial videos which describe the various functionality of these pages.
+
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-tutorial/main/pdbe-kb-tutorial-component.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
@@ -124,6 +143,10 @@ These are repositories of reusable web components developed for PDBe-KB
 
 #### Structure Coverage Component
 
+This repository is for the codebase of a lightweight Angular v7 web component that displays all the available PDB entries for a particular UniProt accession in a tabular format.
+
+This component is used on the PDBe-KB Aggregated Views of Proteins to display information on devices that are to small to use the standard sequence feature viewer, ProtVista.
+
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-coverage-table/main/pdbe-kb-coverage-table.jpg">
 
 |Code Repository|Status|Test Coverage|Maintainability|
@@ -133,6 +156,10 @@ These are repositories of reusable web components developed for PDBe-KB
 ***
 
 #### Ping Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that makes GET requests to specified URLs.
+
+This web component is used on the PDBe-KB Aggregated Views of Proteins to generate web traffic for PDBe-KB partner resources who have contributed annotations for a particular protein of interest.
 
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
