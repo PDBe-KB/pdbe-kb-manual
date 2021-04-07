@@ -122,19 +122,21 @@ These are repositories of reusable web components developed for PDBe-KB
 
 ***
 
+#### Structure Coverage Component
+
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-coverage-table/main/pdbe-kb-coverage-table.jpg">
+
+|Code Repository|Status|Test Coverage|Maintainability|
+|---|---|---|---|
+|[Structure Coverage Component](https://github.com/PDBe-KB/component-coverage-table)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-ping-resources.svg?branch=master)](https://www.travis-ci.com/PDBe-KB/component-ping-resources)|[![codecov](https://codecov.io/gh/PDBe-KB/component-coverage-table/branch/main/graph/badge.svg?token=QA6OCNOB1E)](https://codecov.io/gh/PDBe-KB/component-coverage-table)|[![Maintainability](https://api.codeclimate.com/v1/badges/4de133cf4cdd7ce170eb/maintainability)](https://codeclimate.com/github/PDBe-KB/component-coverage-table/maintainability)|
+
+***
+
 #### Ping Component
 
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
 |[Ping Component](https://github.com/PDBe-KB/component-ping-resources)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-ping-resources.svg?branch=master)](https://www.travis-ci.com/PDBe-KB/component-ping-resources)|[![codecov](https://codecov.io/gh/PDBe-KB/component-ping-resources/branch/master/graph/badge.svg?token=GLYUFFF6QX)](https://codecov.io/gh/PDBe-KB/component-ping-resources)|[![Maintainability](https://api.codeclimate.com/v1/badges/cf98b84b88b21a3e6fb5/maintainability)](https://codeclimate.com/github/PDBe-KB/component-ping-resources/maintainability)|
-
-***
-
-#### Structure Coverage Component
-
-|Code Repository|Status|Test Coverage|Maintainability|
-|---|---|---|---|
-|[Structure Coverage Component](https://github.com/PDBe-KB/component-coverage-table)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-ping-resources.svg?branch=master)](https://www.travis-ci.com/PDBe-KB/component-ping-resources)|[![codecov](https://codecov.io/gh/PDBe-KB/component-coverage-table/branch/main/graph/badge.svg?token=QA6OCNOB1E)](https://codecov.io/gh/PDBe-KB/component-coverage-table)|[![Maintainability](https://api.codeclimate.com/v1/badges/4de133cf4cdd7ce170eb/maintainability)](https://codeclimate.com/github/PDBe-KB/component-coverage-table/maintainability)|
 
 ***
 
