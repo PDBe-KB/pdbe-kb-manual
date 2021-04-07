@@ -42,7 +42,6 @@ These are repositories of reusable web components developed for PDBe-KB
 |---|---|---|---|
 |[CSV Exporter Component](https://github.com/PDBe-KB/component-csv-exporter)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-csv-exporter.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-csv-exporter)|[![codecov](https://codecov.io/gh/PDBe-KB/component-csv-exporter/branch/main/graph/badge.svg?token=SADIB9IIC1)](https://codecov.io/gh/PDBe-KB/component-csv-exporter)|[![Maintainability](https://api.codeclimate.com/v1/badges/32945c274a482e312448/maintainability)](https://codeclimate.com/github/PDBe-KB/component-csv-exporter/maintainability)|
 
-
 ##### Download Component
 
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-download/main/pdbe-kb-download-component.png">
@@ -53,17 +52,23 @@ These are repositories of reusable web components developed for PDBe-KB
 
 ##### Literature Panel Component
 
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-literature-panel/main/pdbe-kb-literature-panel.png">
+
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
 |[Literature Panel Component](https://github.com/PDBe-KB/component-literature-panel)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-literature-panel.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-literature-panel)|[![codecov](https://codecov.io/gh/PDBe-KB/component-literature-panel/branch/main/graph/badge.svg?token=LE7P93G7A5)](https://codecov.io/gh/PDBe-KB/component-literature-panel)|[![Maintainability](https://api.codeclimate.com/v1/badges/3df9aa685e8b62072d28/maintainability)](https://codeclimate.com/github/PDBe-KB/component-literature-panel/maintainability)|
 
 ##### Multi-entry View Component
 
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-multi-view/main/pdbe-kb-multi-view.png">
+
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
 |[Multi-View Component](https://github.com/PDBe-KB/component-multi-view)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-multi-view.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-multi-view)|[![codecov](https://codecov.io/gh/PDBe-KB/component-multi-view/branch/main/graph/badge.svg?token=XYSKQV18FH)](https://codecov.io/gh/PDBe-KB/component-multi-view)|[![Maintainability](https://api.codeclimate.com/v1/badges/1852ac5538a63c058263/maintainability)](https://codeclimate.com/github/PDBe-KB/component-multi-view/maintainability)|
 
 ##### PDBe-KB Header Component
+
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-pdbe-kb-header/main/pdbe-kb-app-header.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
@@ -77,17 +82,23 @@ These are repositories of reusable web components developed for PDBe-KB
 
 ##### Polyprotein Component
 
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-polyprotein-section/main/pdbe-kb-polyprotein-section.png">
+
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
 |[Polyprotein Section Component](https://github.com/PDBe-KB/component-polyprotein-section)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-download.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-download)|[![codecov](https://codecov.io/gh/PDBe-KB/component-polyprotein-section/branch/main/graph/badge.svg?token=2PM8M83ZHN)](https://codecov.io/gh/PDBe-KB/component-polyprotein-section)|[![Maintainability](https://api.codeclimate.com/v1/badges/5c699aa188766841b5c8/maintainability)](https://codeclimate.com/github/PDBe-KB/component-polyprotein-section/maintainability)|
 
 ##### Summary Text Component
 
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-summary-text/main/pdbe-kb-summary-text.png">
+
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
 |[Summary Text Component](https://github.com/PDBe-KB/component-summary-text)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-summary-text.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-summary-text)|[![codecov](https://codecov.io/gh/PDBe-KB/component-summary-text/branch/main/graph/badge.svg?token=XGRVGF9LDY)](https://codecov.io/gh/PDBe-KB/component-summary-text)|[![Maintainability](https://api.codeclimate.com/v1/badges/c757f22f7c1635df3ef8/maintainability)](https://codeclimate.com/github/PDBe-KB/component-summary-text/maintainability)|
 
 ##### Tutorials Component
+
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-tutorial/main/pdbe-kb-tutorial-component.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
