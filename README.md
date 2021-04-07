@@ -25,6 +25,10 @@ These are repositories of reusable web components developed for PDBe-KB
 
 #### PDBe-KB Header Component
 
+This repository is for the codebase of a lightweight Angular v7 web component that provides a header/banner and some basic navigation.
+
+This component is used on the PDBe-KB Aggregated Views of Proteins and PDBe-KB Aggregated Views of Ligands.
+
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-pdbe-kb-header/main/pdbe-kb-app-header.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
@@ -89,6 +93,10 @@ This web component is used on PDBe-KB Aggregated Views of Proteins and Aggregate
 
 #### Literature Panel Component
 
+This repository is for the codebase of a lightweight Angular v7 web component that provides information on literature, generally from PubMed/EuropePMC.
+
+This component is used on the PDBe-KB Aggregated Views of Proteins to display publications related to all the PDB entries of a UniProt accession.
+
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-literature-panel/main/pdbe-kb-literature-panel.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
@@ -97,7 +105,11 @@ This web component is used on PDBe-KB Aggregated Views of Proteins and Aggregate
 
 ***
 
-#### CSV/JSON Exporter Component
+#### CSV/JSON/BibTeX Exporter Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that allows the users to download data in CSV, JSON and BibTeX formats.
+
+The component is used on the PDBe-KB Aggregated Views of Proteins to provide download at various sections of these pages.
 
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-csv-exporter/main/pdbe-kb-csv-exporter.png">
 
@@ -108,6 +120,10 @@ This web component is used on PDBe-KB Aggregated Views of Proteins and Aggregate
 ***
 
 #### Download Component
+
+This repository is for the codebase of a lightweight Angular v6.1 web component that provides download functionality for coordinate files, validation reports and sequences.
+
+The web component is used on PDBe-KB Aggregated Views of Proteins to provide download options for coordinate files, sequences and validation reports.
 
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-download/main/pdbe-kb-download-component.png">
 
@@ -132,6 +148,10 @@ This component is used on the PDBe-KB Aggregated Views of Proteins to display tu
 ***
 
 #### Multi-entry View Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that lists all the UniProt accessions for a PDB entry, i.e. PDB chains may belong to different UniProt accessions.
+
+This component is used on the PDBe-KB Aggregated Views of Proteins to display a table of all the UniProt accessions and processed protein identifiers (PRO id) for a particular PDB entry.
 
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-multi-view/main/pdbe-kb-multi-view.png">
 
