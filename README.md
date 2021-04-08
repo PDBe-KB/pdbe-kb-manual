@@ -100,6 +100,20 @@ This web component is used on PDBe-KB Aggregated Views of Proteins and Aggregate
 
 ***
 
+#### Similar Proteins Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that displays information on similar proteins to an input UniProt accession.
+
+This web component is used on PDBe-KB Aggregated Views of Proteins to display PDB entries where the PDB sequence is similar to any PDB sequence of a UniProt accession, and any UniProt accessions in the same UniRef90 cluster as the protein of interest.
+
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-similar-proteins/main/pdbe-kb-similar-proteins.png">
+
+|Code Repository|Status|Test Coverage|Maintainability|
+|---|---|---|---|
+|[Simialr Proteins Component](https://github.com/PDBe-KB/component-similar-proteins)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-similar-proteins.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-similar-proteins)|[![codecov](https://codecov.io/gh/PDBe-KB/component-similar-proteins/branch/main/graph/badge.svg?token=0VDtWybneZ)](https://codecov.io/gh/PDBe-KB/component-similar-proteins)|[![Maintainability](https://api.codeclimate.com/v1/badges/9fa3b1ec78b88d5f47ba/maintainability)](https://codeclimate.com/github/PDBe-KB/component-similar-proteins/maintainability)|
+
+***
+
 #### Literature Panel Component
 
 This repository is for the codebase of a lightweight Angular v7 web component that provides information on literature, generally from PubMed/EuropePMC.
