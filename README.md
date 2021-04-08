@@ -59,6 +59,11 @@ It also supports flags (for example enzyme classification ids) and has an embedd
 ***
 
 #### Summary Icons Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that displays icons and item counts for data such as the number of available PDB entries or the number of associated publications.
+
+This web component is used on PDBe-KB Aggregated Views of Proteins to display such summary information.
+
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-summary-icons/main/pdbe-kb-summary-icons.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
@@ -69,11 +74,15 @@ It also supports flags (for example enzyme classification ids) and has an embedd
 
 #### Polyprotein Component
 
+This repository is for the codebase of a lightweight Angular v7 web component that displays all the processed proteins for a UniProt accession.
+
+This web component is used on the PDBe-KB Aggregated Views of Proteins.
+
 <img src="https://raw.githubusercontent.com/PDBe-KB/component-polyprotein-section/main/pdbe-kb-polyprotein-section.png">
 
 |Code Repository|Status|Test Coverage|Maintainability|
 |---|---|---|---|
-|[Polyprotein Section Component](https://github.com/PDBe-KB/component-polyprotein-section)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-download.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-download)|[![codecov](https://codecov.io/gh/PDBe-KB/component-polyprotein-section/branch/main/graph/badge.svg?token=2PM8M83ZHN)](https://codecov.io/gh/PDBe-KB/component-polyprotein-section)|[![Maintainability](https://api.codeclimate.com/v1/badges/5c699aa188766841b5c8/maintainability)](https://codeclimate.com/github/PDBe-KB/component-polyprotein-section/maintainability)|
+|[Polyprotein Section Component](https://github.com/PDBe-KB/component-polyprotein-section)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-polyprotein-section.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-polyprotein-section)|[![codecov](https://codecov.io/gh/PDBe-KB/component-polyprotein-section/branch/main/graph/badge.svg?token=2PM8M83ZHN)](https://codecov.io/gh/PDBe-KB/component-polyprotein-section)|[![Maintainability](https://api.codeclimate.com/v1/badges/5c699aa188766841b5c8/maintainability)](https://codeclimate.com/github/PDBe-KB/component-polyprotein-section/maintainability)|
 
 ***
 
