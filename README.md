@@ -156,6 +156,20 @@ The web component is used on PDBe-KB Aggregated Views of Proteins to provide dow
 
 ***
 
+#### Superpose Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that displays a button that can open a MolStar dialog window.
+
+This web component is used on PDBe-KB Aggregated Views of Proteins to display superposed macromolecular structures and ligands.
+
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-superpose/main/pdbe-kb-superpose.png">
+
+|Code Repository|Status|Test Coverage|Maintainability|
+|---|---|---|---|
+|[Superpose Component](https://github.com/PDBe-KB/component-superpose)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-superpose.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-superpose)|[![codecov](https://codecov.io/gh/PDBe-KB/component-superpose/branch/master/graph/badge.svg?token=wDmfiy2Cje)](https://codecov.io/gh/PDBe-KB/component-superpose)|[![Maintainability](https://api.codeclimate.com/v1/badges/c47cb6b2a01acfa1b4fa/maintainability)](https://codeclimate.com/github/PDBe-KB/component-superpose/maintainability)|
+
+***
+
 #### Tutorials Component
 
 This repository is for the codebase of a lightweight Angular v7 web component that displays embedded YouTube videos.
