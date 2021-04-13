@@ -86,6 +86,20 @@ This web component is used on the PDBe-KB Aggregated Views of Proteins.
 
 ***
 
+#### Representative Structures Component
+
+This repository is for the codebase of a lightweight Angular v7 web component that displays a carousel of images with labels and tooltips.
+
+This web component is used on PDBe-KB Aggregated Views of Proteins and Aggregated Views of Ligands to display the best representative structures for a UniProt accessions, and various highlights of a small molecule, respectively.
+
+<img src="https://raw.githubusercontent.com/PDBe-KB/component-representative-structures/main/pdbe-kb-representative-structures.png">
+
+|Code Repository|Status|Test Coverage|Maintainability|
+|---|---|---|---|
+|[Representative Structures Component](https://github.com/PDBe-KB/component-representative-structures)|[![Build Status](https://www.travis-ci.com/PDBe-KB/component-representative-structures.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-representative-structures)|[![codecov](https://codecov.io/gh/PDBe-KB/component-representative-structures/branch/main/graph/badge.svg?token=3ZCLLYC7fJ)](https://codecov.io/gh/PDBe-KB/component-representative-structures)|[![Maintainability](https://api.codeclimate.com/v1/badges/d755f853ff8e067d0eb9/maintainability)](https://codeclimate.com/github/PDBe-KB/component-representative-structures/maintainability)|
+
+***
+
 #### Image Gallery Component
 
 This repository is for the codebase of a lightweight Angular v7 web component that displays images for molecular entities in a gallery.
