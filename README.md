@@ -6,7 +6,9 @@ PDBe-KB (Protein Data Bank in Europe - Knowledge Base) is a community-driven res
 
 PDBe-KB contains data contributed by projects such as [SIFTS](http://www.ebi.ac.uk/pdbe/docs/sifts/index.html) and [FunPDBe](http://www.ebi.ac.uk/pdbe/pdbe-kb/funpdbe) and aims to place structures from the PDB in their biological context.
 
-Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: a community-driven resource for structural and functional annotations. Nucleic Acids Research, Database Issue (2020)](https://academic.oup.com/nar/article/48/D1/D344/5580911)
+Please cite PDBe-KB as: [PDBe-KB consortium, PDBe-KB: collaboratively defining the biological context of structural data. Nucleic Acids Research, Database Issue (2022)](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab988/6424755)
+
+Previous publications: [PDBe-KB consortium, PDBe-KB: a community-driven resource for structural and functional annotations. Nucleic Acids Research, Database Issue (2020)](https://academic.oup.com/nar/article/48/D1/D344/5580911)
 
 ***
 
