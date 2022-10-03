@@ -19,6 +19,7 @@ These are documentations for data and services provided by PDBe-KB
 
 * [Sequence conservation scores](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Sequence-conservation-scores)
 * [Superposition](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Superposition)
+* [Secondary structure variance](https://github.com/PDBe-KB/pdbe-kb-manual/wiki/Secondary-structure-variance)
 
 ***
 
