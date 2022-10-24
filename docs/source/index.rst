@@ -9,7 +9,7 @@ the `PDBe team <https://pdbe.org/>`_, collating functional annotations and predi
 structure data in the PDB archive. PDBe-KB is a collaborative effort between PDBe and a
 diverse group of `bioinformatics resources and research teams <https://www.ebi.ac.uk/pdbe/pdbe-kb/partners>`_.
 
-Bla bla :doc:`annotations` and :doc:`api`
+Bla bla :doc:`annotation` and :doc:`api`
 
 .. note::
 
@@ -32,5 +32,5 @@ Contents
 .. toctree::
 
     Home <self>
-    annotations
+    annotation
     api
