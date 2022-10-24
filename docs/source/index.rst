@@ -32,5 +32,5 @@ Contents
 .. toctree::
 
     Home <self>
-    api
     annotations
+    api

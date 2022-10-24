@@ -1,4 +1,7 @@
 Annotations
 ===
 
-Bla bla bla
+.. autosummary::
+   :toctree: generated
+
+   pdbe-kb-manual
