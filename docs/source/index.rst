@@ -1,12 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to the PDBe-KB User Guide!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This User Guide provides information on the various types of data that is available
+from the `Protein Data Bank in Europe - Knowledge Base <https://pdbe-kb>`_.
 
-Check out the :doc:`usage` section for further information, including
+PDBe-KB (Protein Data Bank in Europe - Knowledge Base) is a community-driven resource managed by
+the `PDBe team <https://pdbe.org/>`_, collating functional annotations and predictions for
+structure data in the PDB archive. PDBe-KB is a collaborative effort between PDBe and a
+diverse group of `bioinformatics resources and research teams <https://www.ebi.ac.uk/pdbe/pdbe-kb/partners>`_.
+
+Check out the :doc:`data_processes` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -19,4 +22,15 @@ Contents
 .. toctree::
 
    usage
-   api
+   annotations
+
+Citations
+---------
+
+Please cite PDBe-KB as: `PDBe-KB consortium, PDBe-KB: collaboratively defining the biological context of
+structural data. Nucleic Acids Research, Database Issue (2022)
+<https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab988/6424755>`_
+
+Previous publications: `PDBe-KB consortium, PDBe-KB: a community-driven resource for structural and
+functional annotations. Nucleic Acids Research, Database Issue (2020)
+<https://academic.oup.com/nar/article/48/D1/D344/5580911>`_

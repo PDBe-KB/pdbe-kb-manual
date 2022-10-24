@@ -1,7 +1,7 @@
-API
+PDBe-KB Annotations
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   PDBe-KB
