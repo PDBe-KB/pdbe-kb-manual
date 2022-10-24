@@ -1,5 +1,5 @@
 Annotations
-===
+===========
 
 .. autosummary::
    :toctree: generated
