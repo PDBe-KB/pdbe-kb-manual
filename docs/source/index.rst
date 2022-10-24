@@ -1,19 +1,32 @@
 Welcome to the PDBe-KB User Guide!
 ===================================
 
-This User Guide provides information on the various types of data that is available
-from the `Protein Data Bank in Europe - Knowledge Base <https://pdbe-kb>`_.
+This User Guide provides information about the data pipelines and functional annotations available
+at the `Protein Data Bank in Europe - Knowledge Base <https://pdbe-kb>`_.
 
-PDBe-KB (Protein Data Bank in Europe - Knowledge Base) is a community-driven resource managed by
-the `PDBe team <https://pdbe.org/>`_, collating functional annotations and predictions for
-structure data in the PDB archive. PDBe-KB is a collaborative effort between PDBe and a
-diverse group of `bioinformatics resources and research teams <https://www.ebi.ac.uk/pdbe/pdbe-kb/partners>`_.
+PDBe-KB is an open, collaborative consortium of structural biologist data providers.
+We enrich the structure data of the PDB archive with functional annotations. We also provide uniform access to
+experimentally-determined and computationally predicted protein structures through the
+`3D-Beacons network <https://3d-beacons.org>`_.
 
-Bla bla :doc:`annotation` and :doc:`api`
+PDBe-KB is a flagship of the `ELIXIR 3D-BioInfo Community <https://elixir-europe.org/communities/3d-bioinfo>`_,
+an international group of researchers and software developers working on improving all the aspects of data management
+in the field of structural bioinformatics.
+
+Get started by reading about :doc:`annotations` and :doc:`pipelines`!
 
 .. note::
 
    This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+    Home <self>
+    annotations
+    pipelines
 
 Citations
 ---------
@@ -26,11 +39,3 @@ Previous publications: `PDBe-KB consortium, PDBe-KB: a community-driven resource
 functional annotations. Nucleic Acids Research, Database Issue (2020)
 <https://academic.oup.com/nar/article/48/D1/D344/5580911>`_
 
-Contents
---------
-
-.. toctree::
-
-    Home <self>
-    annotation
-    api
