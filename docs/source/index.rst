@@ -9,9 +9,6 @@ the `PDBe team <https://pdbe.org/>`_, collating functional annotations and predi
 structure data in the PDB archive. PDBe-KB is a collaborative effort between PDBe and a
 diverse group of `bioinformatics resources and research teams <https://www.ebi.ac.uk/pdbe/pdbe-kb/partners>`_.
 
-Check out the :doc:`data_processes` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.
@@ -32,5 +29,5 @@ Contents
 
 .. toctree::
 
-   usage
-   annotations
+    Home <self>
+    annotations
