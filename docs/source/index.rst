@@ -16,14 +16,6 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   annotations
-
 Citations
 ---------
 
@@ -34,3 +26,11 @@ structural data. Nucleic Acids Research, Database Issue (2022)
 Previous publications: `PDBe-KB consortium, PDBe-KB: a community-driven resource for structural and
 functional annotations. Nucleic Acids Research, Database Issue (2020)
 <https://academic.oup.com/nar/article/48/D1/D344/5580911>`_
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   annotations
