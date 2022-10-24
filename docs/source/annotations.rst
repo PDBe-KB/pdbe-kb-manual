@@ -1,7 +1,4 @@
-PDBe-KB Annotations
+Annotations
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   PDBe-KB
+Bla bla bla
