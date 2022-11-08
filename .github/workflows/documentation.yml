@@ -1,6 +1,6 @@
 # This workflow will install Python dependencies, and generate documentation.
 
-name: ccdutils documentation
+name: documentation
 
 on:
   push:
@@ -31,8 +31,6 @@ jobs:
         with:
           activate-conda: true
           conda-channels: conda-forge
-      - run: |
-          pip install -e ".[docs]"
       - run: |
           cd doc
           make html
