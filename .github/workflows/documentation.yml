@@ -1,41 +1,22 @@
-# This workflow will install Python dependencies, and generate documentation.
+name: Sphinx build
 
-name: documentation
-
-on:
-  push:
-    branches:
-      - master
-
-  pull_request:
-    branches:
-      - master
+on: push
 
 jobs:
-  documentation:
-    name: Generate documentation
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-
-      - name: Set up python
-        uses: actions/setup-python@v1
-        with:
-          python-version: 3.7
-
-      - name: Set up environment and generate docs
-        uses: s-weigand/setup-conda@v1
-        with:
-          activate-conda: true
-          conda-channels: conda-forge
-      - run: |
-          cd docs
-          make html
-      - name: Deploy pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./doc/_build/html
+    - uses: actions/checkout@v3
+    - name: Build HTML
+      uses: ammaraskar/sphinx-action@master
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: html-docs
+        path: docs/build/html/
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: docs/build/html
